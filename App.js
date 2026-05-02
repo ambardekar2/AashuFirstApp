@@ -5,7 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Aashutosh</Text>
-      <Text>Hi from new branch</Text>
+      <Text>Hi from BranchA</Text>
   
       <Text>How are you doing?</Text>
       <StatusBar style="auto" />
